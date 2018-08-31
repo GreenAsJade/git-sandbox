@@ -1,1 +1,1 @@
-Just testing
+console.log("Does something!);
